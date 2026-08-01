@@ -1,1 +1,1 @@
-FROM texlive/texlive:sha256:1f9bfe4c8dcd5b974974c6946a9879ad1c28483e6ffb41c1771d5cb871aff0da
+FROM texlive/texlive:1f9bfe4c8dcd5b974974c6946a9879ad1c28483e6ffb41c1771d5cb871aff0da
